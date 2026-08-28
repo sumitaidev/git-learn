@@ -81,7 +81,7 @@ class TechnicalDocPDF(FPDF):
 
 # 6. Core Interface Flow
 if api_key:
-    client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key="gpt4.0")
     input_mode = st.radio("Choose Input Source:", ("Option A: Paste GitHub File Link", "Option B: Upload Source Code File"))
     
     code_content = ""
