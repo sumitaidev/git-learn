@@ -6,6 +6,7 @@ import io
 import matplotlib.pyplot as plt
 
 # 1. Page Configuration
+#cofiguration 
 st.set_page_config(page_title="AI Technical Doc Builder", page_icon="📖", layout="centered")
 st.title("📖 AI Technical Documentation Generator")
 st.write("Provide a source file to generate a structured, professional PDF technical manual complete with system flowcharts.")
