@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 
 # Sample data
+#data1 time serise 
 data = [7, 8, 15, 18, 20, 21, 25, 30, 45]
 data2 = [7, 8, 15, 18, 20, 21, 25, 30, 45]
 
