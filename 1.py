@@ -6,4 +6,3 @@ plt.plot(iris['Id'], iris["PetalWidthCm"], "r",color="red")
 plt.show()
 print("this project is done by sumit")
 
-#hello word!
