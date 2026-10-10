@@ -7,3 +7,8 @@ plt.show()
 print("this project is done by sumit")
 #hello sir good morning 
 
+def ptr() { 
+int x = 12
+print (x)
+
+}
