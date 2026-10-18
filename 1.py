@@ -14,4 +14,3 @@ print (x)
 }
 # fix some bug1
 #bug @@ fixed 
-#fix bug 2
